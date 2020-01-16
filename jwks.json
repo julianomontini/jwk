@@ -1,10 +1,10 @@
 {
 	"keys": [{
+		"alg": "RS256",
+		"use": "sig",
 		"kty": "RSA",
 		"e": "AQAB",
-		"use": "sig",
-		"kid": "primary-key",
-		"alg": "RS256",
-		"n": "1wl5CVigsbpKHCPbCPLVwQPoAvxDMEKizSGCYUjMfQuAJRbwtXAK86QiaKdzMjvXeYnT2FAKV_VYtF9GBQxaK9b13gkHjShaMt0sfWVoJJThm0YkLV53ggBH-LG3oPBUd7myYeBeHT_uNUDz1Wq6SQfAecbSdJ4Po7SuygryNGJxxGvXKDyWd5_mfaINyZATibT1djpjDDwNtM_q4miSQSDpfx72qwHby07ov05SJtEBKNJhRB5Pu_KxI2gn583iJzlXwZoLqF6y31ZmsAK8whm6gYVqG742uhA_xsWFO0LckwaiwYHcXGa_qubK-AxUDskSJsG3XKMlDzM45tb5aw"
+		"kid": "5b48880e-2f34-4eac-bfba-a6a03d44daaa",
+		"n": "sfkmeev6SK8xpweLWjE-VWqW-iTZjOyRNGU9QV7HvFLMoOXxH-xG2AAsxhnoK0URJiQASGKxfyBgGiA6s9h_x3lx2LhvJypzhBiAX6_dUbWJq6Pb-T16wJMbMXMRuZz7pH5o9zBuK_En8MOe03Q-oXWjQ7wEDTD7Zv61F3jBoHnb2_IO-Ao8uHlrHOCzQsg8YivShXremvRIoHM_nyxyEkYWCoC6Fd40XbmRBG6LmCJJyymIRRxEKfgaAVSDYc3uqApE9HdvsKfc8MOCx4g9Z4FjlR_MEdx4uI-BrKLoIMV9xR4Y_mn4Q0JD2ksUUNKCQ99XwdrIMZM_IdqAZxPYUw"
 	}]
 }
